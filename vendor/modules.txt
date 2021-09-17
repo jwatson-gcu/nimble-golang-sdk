@@ -1,6 +1,6 @@
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
-# github.com/go-resty/resty/v2 v2.2.0
+# github.com/go-resty/resty/v2 v2.6.0
 github.com/go-resty/resty/v2
 # github.com/hpe-storage/common-host-libs v4.1.0+incompatible
 github.com/hpe-storage/common-host-libs/jsonutil
@@ -19,9 +19,10 @@ github.com/stretchr/testify/require
 github.com/stretchr/testify/suite
 # golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
 golang.org/x/crypto/ssh/terminal
-# golang.org/x/net v0.0.0-20200222125558-5a598a2470a0
+# golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
 golang.org/x/net/publicsuffix
-# golang.org/x/sys v0.0.0-20190422165155-953cdadca894
+# golang.org/x/sys v0.0.0-20210330210617-4fbd30eecc44
+golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
 # gopkg.in/natefinch/lumberjack.v2 v2.0.0
